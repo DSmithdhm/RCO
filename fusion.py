@@ -67,7 +67,7 @@ class Fusion:
         return match_ok, frame_yield
 
 
-def main():
+def main():  # this Comment new 09Apr2024
 
     # Create a VideoCapture object
     # The argument can be either the device index or the name of a video file
